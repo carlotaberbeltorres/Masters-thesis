@@ -61,7 +61,7 @@ ex
 
 
 
-pesticides= subset(treatments, select = -c(LarvaeID, colony_id, plate_id ,treatment, cencorDOD_e0,DODEF, censorDODEF))
+pesticides= subset(treatments, select = -c(LarvaeID, colony_id, plate_id ,treatment,DODEF, censorDODEF))
 pesticides.1<- pesticides %>%
   group_by(Treatments) %>% summarise_all(funs(sum))
 pesticides.1
