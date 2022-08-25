@@ -61,33 +61,11 @@ ex
 
 
 
-pesticides= subset(treatments, select = -c(LarvaeID, colony_id, plate_id ,treatment,DODEF, censorDODEF))
-pesticides.1<- pesticides %>%
-  group_by(Treatments) %>% summarise_all(funs(sum))
-pesticides.1
-
-
-#convert frequencies to proportions
-pesticides.1<- sweep(pesticides.1, unlist(pesticides.1[,"Day_0"]), MARGIN =1, FUN="/")
-pesticides.1
-
-pesticides.2= subset(pesticides.1, select = -c(Treatments))
-pesticides.2.sum <- pesticides.2 %>%
-  group_by(Treatments) %>% summarise_all(funs(mean))
-pesticides.2.sum
-
-pesticides.2.sum[,"Day_0"] <- 1
-pesticides.2.sum[,"Day_1"] <- 1
-
-write.csv(pesticides.2.sum, "survival probability.csv", row.names = FALSE)
 
 ## Calculating cox regression
 
 Cox.Pesticides <- coxph(Surv(DOD, cencorDOD) ~Treatments  +colony_id,  data = Pest.BMinus)
 summary(Cox.Pesticides)
-validate_coxph1.14 = cox.zph(Cox.Pesticides)
-validate_coxph1.14
-
 tab_model(Cox.Pesticides)
 
 ## Forest plot
@@ -139,8 +117,7 @@ ggforest(Cox.All)
 
 tab_model(Cox.Pesticides, Cox.Microbes,Cox.All, CSS = list(css.depvarhead = '+color: blue;'), file="Cox.doc")
 ### Lets analyse the change in size
-
-
+###Calculating larval growth rate
 growth <- Final %>%
   arrange(LarvaeID,Treatments,colony_id,treatment) %>%
   group_by(LarvaeID, Treatments,treatment) %>% 
@@ -151,6 +128,8 @@ growth <- Final %>%
 head(growth)
 scans <- filter(Final, Treatments !="Control")
 scans
+
+##load package to do GLMs
 library(lmerTest)
 
 ## Model looking only at pesticides
@@ -159,12 +138,27 @@ M1treat<-filter(M1, Treatments !="Control")
 m1<- glm((growth_rate)~(Treatments)+(colony_id), data = M1treat)
 summary(m1)
 
+
+##run again to reset variables
+growth <- Final %>%
+  arrange(LarvaeID,Treatments,colony_id,treatment) %>%
+  group_by(LarvaeID, Treatments,treatment) %>% 
+  mutate(base_rate = first(Area.Start),
+         growth_rate = ((Area.Finish - base_rate)/DOD*100) )%>%
+  select(-base_rate)
+
 ##Model looking at only B+
 M2<- growth %>% filter(Treatment %in% c("Acetone", "1"))
 m2 <- glm((growth_rate)~(Treatment)+(treatment)+(colony_id), data=M2)
 summary(m2)
 
-
+##run again to reset variables
+growth <- Final %>%
+  arrange(LarvaeID,Treatments,colony_id,treatment) %>%
+  group_by(LarvaeID, Treatments,treatment) %>% 
+  mutate(base_rate = first(Area.Start),
+         growth_rate = ((Area.Finish - base_rate)/DOD*100) )%>%
+  select(-base_rate)
 
 
 ## Model considering both influence of pesticides and microbes
@@ -199,16 +193,14 @@ BPlus<-ggplot(growth_BPlus, aes(x=Treatments, y=growth_rate, fill=colony_id)) +
                                                 title = "Supplemented",font.main = c(16, "bold"),ylim(0,8000))
 BPluss<-BPlus+ scale_y_continuous(limits=c(0,6000),breaks = seq(0, 6000,1000))
 
-plot<-BMinuss+BPluss
-plot
+## stacking both graphs together
+figure <- ggarrange(BPluss, BMinuss,
+                 ncol = 1, nrow = 2)
+figure
 
 
-## Merge both graphs onto 1 image
-library(patchwork)
-Typeandsize<- BPlus+BMinus
-Typeandsize
 
-
+##References needed for my project 
 citation()
 citation("survival")             
 citation ("lmerTest")
