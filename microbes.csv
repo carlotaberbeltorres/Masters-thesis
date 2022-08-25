@@ -1,0 +1,577 @@
+colony_id,plate_id,LarvaeID,treatment,Treatments,Day_0,Day_1,Day_2,Day_3,Day_4,Day_5,Day_6,Day_7,Day_8,Day_9,Day_10,Day_11,Day_12,DOD,cencorDOD,DODEF,censorDODEF
+first,H1aB+,H1aB+A1,Supplemented,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+B1,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1aB+,H1aB+C1,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+D1,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,8,1
+first,H1aB+,H1aB+E1,Supplemented,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+F1,Supplemented,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,8,1
+first,H1aB+,H1aB+A2,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,7,1
+first,H1aB+,H1aB+B2,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,7,1
+first,H1aB+,H1aB+C2,Supplemented,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+D2,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+E2,Supplemented,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,7,1
+first,H1aB+,H1aB+F2,Supplemented,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+A3,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+B3,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1aB+,H1aB+C3,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+D3,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+E3,Supplemented,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+F3,Supplemented,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,7,1
+first,H1aB+,H1aB+A4,Supplemented,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+B4,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+C4,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+D4,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+E4,Supplemented,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+F4,Supplemented,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+A5,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+B5,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+first,H1aB+,H1aB+C5,Supplemented,D-Glyphosate,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+first,H1aB+,H1aB+D5,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+E5,Supplemented,A-Acetone ,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,10,1
+first,H1aB+,H1aB+F5,Supplemented,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,8,1
+first,H1aB+,H1aB+A6,Supplemented,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+B6,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+C6,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+D6,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+E6,Supplemented,A-Acetone ,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+F6,Supplemented,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+A7,Supplemented,B-Thiacloprid,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1aB+,H1aB+B7,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,7,1
+first,H1aB+,H1aB+C7,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,8,1
+first,H1aB+,H1aB+D7,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+E7,Supplemented,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,6,1
+first,H1aB+,H1aB+F7,Supplemented,Control,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,6,1
+first,H1aB+,H1aB+A8,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+B8,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+C8,Supplemented,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+D8,Supplemented,E-Azoxystrobin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+first,H1aB+,H1aB+E8,Supplemented,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB+,H1aB+F8,Supplemented,Control,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,10,1
+first,H1aB-,H1aB-A1,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-B1,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-C1,A-Untreated,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1aB-,H1aB-D1,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-E1,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-F1,A-Untreated,Control,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,9,1
+first,H1aB-,H1aB-A2,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-B2,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-C2,A-Untreated,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1aB-,H1aB-D2,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-E2,A-Untreated,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1aB-,H1aB-F2,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+first,H1aB-,H1aB-A3,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-B3,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+first,H1aB-,H1aB-C3,A-Untreated,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1aB-,H1aB-D3,A-Untreated,E-Azoxystrobin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1aB-,H1aB-E3,A-Untreated,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-F3,A-Untreated,Control,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-A4,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-B4,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-C4,A-Untreated,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-D4,A-Untreated,E-Azoxystrobin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1aB-,H1aB-E4,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+first,H1aB-,H1aB-F4,A-Untreated,Control,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-A5,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-B5,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-C5,A-Untreated,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1aB-,H1aB-D5,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-E5,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-F5,A-Untreated,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-A6,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-B6,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-C6,A-Untreated,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1aB-,H1aB-D6,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-E6,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-F6,A-Untreated,Control,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,6,1
+first,H1aB-,H1aB-A7,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-B7,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-C7,A-Untreated,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-D7,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-E7,A-Untreated,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-F7,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,10,1
+first,H1aB-,H1aB-A8,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-B8,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1aB-,H1aB-C8,A-Untreated,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-D8,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-E8,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+first,H1aB-,H1aB-F8,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,1,0,0,6,0,12,0
+first,H1bB+,H1bB+A1,Supplemented,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+B1,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+C1,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,7,1
+first,H1bB+,H1bB+D1,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+E1,Supplemented,A-Acetone ,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+F1,Supplemented,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,8,1
+first,H1bB+,H1bB+A2,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+B2,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+C2,Supplemented,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+D2,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+E2,Supplemented,A-Acetone ,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+F2,Supplemented,Control,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+first,H1bB+,H1bB+A3,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+B3,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+C3,Supplemented,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+D3,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+E3,Supplemented,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1bB+,H1bB+F3,Supplemented,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+A4,Supplemented,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+B4,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+C4,Supplemented,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+D4,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+E4,Supplemented,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+F4,Supplemented,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+A5,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+B5,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+C5,Supplemented,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1bB+,H1bB+D5,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+E5,Supplemented,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+F5,Supplemented,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,8,1
+first,H1bB+,H1bB+A6,Supplemented,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+B6,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+C6,Supplemented,D-Glyphosate,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+first,H1bB+,H1bB+D6,Supplemented,E-Azoxystrobin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1bB+,H1bB+E6,Supplemented,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+F6,Supplemented,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+A7,Supplemented,B-Thiacloprid,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1bB+,H1bB+B7,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1bB+,H1bB+C7,Supplemented,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1bB+,H1bB+D7,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+E7,Supplemented,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1bB+,H1bB+F7,Supplemented,Control,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+first,H1bB+,H1bB+A8,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+B8,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1bB+,H1bB+C8,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+D8,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+E8,Supplemented,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB+,H1bB+F8,Supplemented,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,8,1
+first,H1bB-,H1bB-A1,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-B1,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-C1,A-Untreated,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-D1,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-E1,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-F1,A-Untreated,Control,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+first,H1bB-,H1bB-A2,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-B2,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-C2,A-Untreated,D-Glyphosate,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-D2,A-Untreated,E-Azoxystrobin,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+first,H1bB-,H1bB-E2,A-Untreated,A-Acetone ,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+first,H1bB-,H1bB-F2,A-Untreated,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-A3,A-Untreated,B-Thiacloprid,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+first,H1bB-,H1bB-B3,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1bB-,H1bB-C3,A-Untreated,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1bB-,H1bB-D3,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-E3,A-Untreated,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1bB-,H1bB-F3,A-Untreated,Control,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,12,0
+first,H1bB-,H1bB-A4,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-B4,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1bB-,H1bB-C4,A-Untreated,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-D4,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-E4,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-F4,A-Untreated,Control,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-A5,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-B5,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1bB-,H1bB-C5,A-Untreated,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-D5,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-E5,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-F5,A-Untreated,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-A6,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-B6,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-C6,A-Untreated,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-D6,A-Untreated,E-Azoxystrobin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+first,H1bB-,H1bB-E6,A-Untreated,A-Acetone ,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+first,H1bB-,H1bB-F6,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,10,1
+first,H1bB-,H1bB-A7,A-Untreated,B-Thiacloprid,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+first,H1bB-,H1bB-B7,A-Untreated,C-Lamda-cyhalothrin,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+first,H1bB-,H1bB-C7,A-Untreated,D-Glyphosate,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+first,H1bB-,H1bB-D7,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-E7,A-Untreated,A-Acetone ,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+first,H1bB-,H1bB-F7,A-Untreated,Control,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-A8,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+first,H1bB-,H1bB-B8,A-Untreated,C-Lamda-cyhalothrin,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+first,H1bB-,H1bB-C8,A-Untreated,D-Glyphosate,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+first,H1bB-,H1bB-D8,A-Untreated,E-Azoxystrobin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+first,H1bB-,H1bB-E8,A-Untreated,A-Acetone ,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+first,H1bB-,H1bB-F8,A-Untreated,Control,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2aB+,H2aB+A1,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+B1,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2aB+,H2aB+C1,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+D1,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+E1,Supplemented,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+F1,Supplemented,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+A2,Supplemented,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+B2,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2aB+,H2aB+C2,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+D2,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+E2,Supplemented,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+F2,Supplemented,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+A3,Supplemented,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+B3,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2aB+,H2aB+C3,Supplemented,D-Glyphosate,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+second,H2aB+,H2aB+D3,Supplemented,E-Azoxystrobin,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,12,0
+second,H2aB+,H2aB+E3,Supplemented,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+F3,Supplemented,Control,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+A4,Supplemented,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+B4,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+C4,Supplemented,D-Glyphosate,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,12,0
+second,H2aB+,H2aB+D4,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+E4,Supplemented,A-Acetone ,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+F4,Supplemented,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+A5,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+B5,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+C5,Supplemented,D-Glyphosate,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+second,H2aB+,H2aB+D5,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+E5,Supplemented,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2aB+,H2aB+F5,Supplemented,Control,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+second,H2aB+,H2aB+A6,Supplemented,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+B6,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+C6,Supplemented,D-Glyphosate,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+second,H2aB+,H2aB+D6,Supplemented,E-Azoxystrobin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+second,H2aB+,H2aB+E6,Supplemented,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,6,1
+second,H2aB+,H2aB+F6,Supplemented,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+A7,Supplemented,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+B7,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+C7,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+D7,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+E7,Supplemented,A-Acetone ,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+F7,Supplemented,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+A8,Supplemented,B-Thiacloprid,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+second,H2aB+,H2aB+B8,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2aB+,H2aB+C8,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+D8,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+E8,Supplemented,A-Acetone ,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB+,H2aB+F8,Supplemented,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-A1,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-B1,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-C1,A-Untreated,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-D1,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,6,1
+second,H2aB-,H2aB-E1,A-Untreated,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-F1,A-Untreated,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,7,1
+second,H2aB-,H2aB-A2,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-B2,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-C2,A-Untreated,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-D2,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-E2,A-Untreated,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-F2,A-Untreated,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-A3,A-Untreated,B-Thiacloprid,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+second,H2aB-,H2aB-B3,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-C3,A-Untreated,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-D3,A-Untreated,E-Azoxystrobin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2aB-,H2aB-E3,A-Untreated,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2aB-,H2aB-F3,A-Untreated,Control,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,6,1
+second,H2aB-,H2aB-A4,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-B4,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-C4,A-Untreated,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-D4,A-Untreated,E-Azoxystrobin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+second,H2aB-,H2aB-E4,A-Untreated,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-F4,A-Untreated,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-A5,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-B5,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-C5,A-Untreated,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-D5,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-E5,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-F5,A-Untreated,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,7,1
+second,H2aB-,H2aB-A6,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-B6,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-C6,A-Untreated,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-D6,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-E6,A-Untreated,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2aB-,H2aB-F6,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+second,H2aB-,H2aB-A7,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-B7,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-C7,A-Untreated,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-D7,A-Untreated,E-Azoxystrobin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2aB-,H2aB-E7,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-F7,A-Untreated,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,7,1
+second,H2aB-,H2aB-A8,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-B8,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-C8,A-Untreated,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-D8,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-E8,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2aB-,H2aB-F8,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,1,0,0,6,0,12,0
+second,H2bB+,H2bB+A1,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+second,H2bB+,H2bB+B1,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,10,1
+second,H2bB+,H2bB+C1,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+D1,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+E1,Supplemented,A-Acetone ,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+F1,Supplemented,Control,1,1,1,1,1,1,1,1,1,1,1,1,0,6,0,12,1
+second,H2bB+,H2bB+A2,Supplemented,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+B2,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+second,H2bB+,H2bB+C2,Supplemented,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB+,H2bB+D2,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+E2,Supplemented,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+F2,Supplemented,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+A3,Supplemented,B-Thiacloprid,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB+,H2bB+B3,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+second,H2bB+,H2bB+C3,Supplemented,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB+,H2bB+D3,Supplemented,E-Azoxystrobin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB+,H2bB+E3,Supplemented,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB+,H2bB+F3,Supplemented,Control,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+A4,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+B4,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+C4,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+D4,Supplemented,E-Azoxystrobin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB+,H2bB+E4,Supplemented,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+F4,Supplemented,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+A5,Supplemented,B-Thiacloprid,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB+,H2bB+B5,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+C5,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+D5,Supplemented,E-Azoxystrobin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+second,H2bB+,H2bB+E5,Supplemented,A-Acetone ,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+F5,Supplemented,Control,1,1,1,1,1,1,1,1,1,1,1,1,0,6,0,12,0
+second,H2bB+,H2bB+A6,Supplemented,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+B6,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB+,H2bB+C6,Supplemented,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+D6,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+E6,Supplemented,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+F6,Supplemented,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+A7,Supplemented,B-Thiacloprid,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,12,0
+second,H2bB+,H2bB+B7,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB+,H2bB+C7,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+D7,Supplemented,E-Azoxystrobin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+second,H2bB+,H2bB+E7,Supplemented,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+F7,Supplemented,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+A8,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+second,H2bB+,H2bB+B8,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+C8,Supplemented,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+D8,Supplemented,E-Azoxystrobin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+second,H2bB+,H2bB+E8,Supplemented,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB+,H2bB+F8,Supplemented,Control,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,12,0
+second,H2bB-,H2bB-A1,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-B1,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB-,H2bB-C1,A-Untreated,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-D1,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-E1,A-Untreated,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB-,H2bB-F1,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,1,0,0,6,0,12,0
+second,H2bB-,H2bB-A2,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-B2,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-C2,A-Untreated,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-D2,A-Untreated,E-Azoxystrobin,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+second,H2bB-,H2bB-E2,A-Untreated,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB-,H2bB-F2,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,1,0,0,6,0,12,0
+second,H2bB-,H2bB-A3,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-B3,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-C3,A-Untreated,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB-,H2bB-D3,A-Untreated,E-Azoxystrobin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB-,H2bB-E3,A-Untreated,A-Acetone ,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+second,H2bB-,H2bB-F3,A-Untreated,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-A4,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-B4,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-C4,A-Untreated,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-D4,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-E4,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-F4,A-Untreated,Control,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-A5,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-B5,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB-,H2bB-C5,A-Untreated,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-D5,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-E5,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-F5,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,1,0,0,6,0,11,1
+second,H2bB-,H2bB-A6,A-Untreated,B-Thiacloprid,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB-,H2bB-B6,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-C6,A-Untreated,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-D6,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-E6,A-Untreated,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+second,H2bB-,H2bB-F6,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+second,H2bB-,H2bB-A7,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-B7,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-C7,A-Untreated,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-D7,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-E7,A-Untreated,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-F7,A-Untreated,Control,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-A8,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-B8,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-C8,A-Untreated,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-D8,A-Untreated,E-Azoxystrobin,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+second,H2bB-,H2bB-E8,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+second,H2bB-,H2bB-F8,A-Untreated,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+A1,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+B1,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB+,H3aB+C1,Supplemented,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+D1,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+E1,Supplemented,A-Acetone ,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3aB+,H3aB+F1,Supplemented,Control,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+A2,Supplemented,B-Thiacloprid,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB+,H3aB+B2,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB+,H3aB+C2,Supplemented,D-Glyphosate,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3aB+,H3aB+D2,Supplemented,E-Azoxystrobin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB+,H3aB+E2,Supplemented,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB+,H3aB+F2,Supplemented,Control,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+A3,Supplemented,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+B3,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB+,H3aB+C3,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+D3,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,1,1,1,1,0,0,6,0,12,0
+third,H3aB+,H3aB+E3,Supplemented,A-Acetone ,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3aB+,H3aB+F3,Supplemented,Control,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+A4,Supplemented,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+B4,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3aB+,H3aB+C4,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+D4,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+E4,Supplemented,A-Acetone ,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+third,H3aB+,H3aB+F4,Supplemented,Control,1,1,1,1,1,1,1,1,1,1,1,0,0,6,0,11,1
+third,H3aB+,H3aB+A5,Supplemented,B-Thiacloprid,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3aB+,H3aB+B5,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+C5,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+D5,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+E5,Supplemented,A-Acetone ,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+F5,Supplemented,Control,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+third,H3aB+,H3aB+A6,Supplemented,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+B6,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB+,H3aB+C6,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+D6,Supplemented,E-Azoxystrobin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB+,H3aB+E6,Supplemented,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+F6,Supplemented,Control,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+third,H3aB+,H3aB+A7,Supplemented,B-Thiacloprid,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB+,H3aB+B7,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+C7,Supplemented,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+D7,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+E7,Supplemented,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+F7,Supplemented,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+A8,Supplemented,B-Thiacloprid,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3aB+,H3aB+B8,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+C8,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+D8,Supplemented,E-Azoxystrobin,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,12,0
+third,H3aB+,H3aB+E8,Supplemented,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB+,H3aB+F8,Supplemented,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-A1,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-B1,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB-,H3aB-C1,A-Untreated,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-D1,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-E1,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-F1,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,1,1,0,6,0,12,0
+third,H3aB-,H3aB-A2,A-Untreated,B-Thiacloprid,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB-,H3aB-B2,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-C2,A-Untreated,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB-,H3aB-D2,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-E2,A-Untreated,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-F2,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+third,H3aB-,H3aB-A3,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-B3,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-C3,A-Untreated,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-D3,A-Untreated,E-Azoxystrobin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB-,H3aB-E3,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-F3,A-Untreated,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-A4,A-Untreated,B-Thiacloprid,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB-,H3aB-B4,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-C4,A-Untreated,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-D4,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-E4,A-Untreated,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB-,H3aB-F4,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+third,H3aB-,H3aB-A5,A-Untreated,B-Thiacloprid,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB-,H3aB-B5,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-C5,A-Untreated,D-Glyphosate,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+third,H3aB-,H3aB-D5,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,6,1
+third,H3aB-,H3aB-E5,A-Untreated,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB-,H3aB-F5,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,10,1
+third,H3aB-,H3aB-A6,A-Untreated,B-Thiacloprid,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB-,H3aB-B6,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-C6,A-Untreated,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB-,H3aB-D6,A-Untreated,E-Azoxystrobin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB-,H3aB-E6,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-F6,A-Untreated,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,7,1
+third,H3aB-,H3aB-A7,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-B7,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-C7,A-Untreated,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-D7,A-Untreated,E-Azoxystrobin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3aB-,H3aB-E7,A-Untreated,A-Acetone ,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+third,H3aB-,H3aB-F7,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,1,1,0,6,0,12,0
+third,H3aB-,H3aB-A8,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+third,H3aB-,H3aB-B8,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB-,H3aB-C8,A-Untreated,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3aB-,H3aB-D8,A-Untreated,E-Azoxystrobin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3aB-,H3aB-E8,A-Untreated,A-Acetone ,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3aB-,H3aB-F8,A-Untreated,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+A1,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+B1,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+C1,Supplemented,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB+,H3bB+D1,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+E1,Supplemented,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+F1,Supplemented,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+A2,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+B2,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+third,H3bB+,H3bB+C2,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+D2,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+E2,Supplemented,A-Acetone ,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3bB+,H3bB+F2,Supplemented,Control,1,1,1,1,1,1,1,1,1,1,1,1,0,6,0,12,0
+third,H3bB+,H3bB+A3,Supplemented,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+B3,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+C3,Supplemented,D-Glyphosate,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3bB+,H3bB+D3,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+E3,Supplemented,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+F3,Supplemented,Control,1,1,1,1,1,1,1,1,1,1,1,1,0,6,0,12,0
+third,H3bB+,H3bB+A4,Supplemented,B-Thiacloprid,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB+,H3bB+B4,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+C4,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+third,H3bB+,H3bB+D4,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+E4,Supplemented,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+F4,Supplemented,Control,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+third,H3bB+,H3bB+A5,Supplemented,B-Thiacloprid,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3bB+,H3bB+B5,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB+,H3bB+C5,Supplemented,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+D5,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+E5,Supplemented,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB+,H3bB+F5,Supplemented,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+A6,Supplemented,B-Thiacloprid,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3bB+,H3bB+B6,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+C6,Supplemented,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+D6,Supplemented,E-Azoxystrobin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB+,H3bB+E6,Supplemented,A-Acetone ,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3bB+,H3bB+F6,Supplemented,Control,1,1,1,1,1,1,1,1,1,1,1,1,0,6,0,12,0
+third,H3bB+,H3bB+A7,Supplemented,B-Thiacloprid,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB+,H3bB+B7,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB+,H3bB+C7,Supplemented,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+D7,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+E7,Supplemented,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB+,H3bB+F7,Supplemented,Control,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+A8,Supplemented,B-Thiacloprid,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,12,0
+third,H3bB+,H3bB+B8,Supplemented,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+C8,Supplemented,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+D8,Supplemented,E-Azoxystrobin,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+third,H3bB+,H3bB+E8,Supplemented,A-Acetone ,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB+,H3bB+F8,Supplemented,Control,1,1,1,1,1,1,1,1,1,1,1,0,0,6,0,11,1
+third,H3bB-,H3bB-A1,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-B1,A-Untreated,C-Lamda-cyhalothrin,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+third,H3bB-,H3bB-C1,A-Untreated,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB-,H3bB-D1,A-Untreated,E-Azoxystrobin,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+third,H3bB-,H3bB-E1,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-F1,A-Untreated,Control,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-A2,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-B2,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3bB-,H3bB-C2,A-Untreated,D-Glyphosate,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-D2,A-Untreated,E-Azoxystrobin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3bB-,H3bB-E2,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-F2,A-Untreated,Control,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-A3,A-Untreated,B-Thiacloprid,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3bB-,H3bB-B3,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB-,H3bB-C3,A-Untreated,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB-,H3bB-D3,A-Untreated,E-Azoxystrobin,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+third,H3bB-,H3bB-E3,A-Untreated,A-Acetone ,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-F3,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+third,H3bB-,H3bB-A4,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-B4,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-C4,A-Untreated,D-Glyphosate,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+third,H3bB-,H3bB-D4,A-Untreated,E-Azoxystrobin,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-E4,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-F4,A-Untreated,Control,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,9,1
+third,H3bB-,H3bB-A5,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-B5,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-C5,A-Untreated,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB-,H3bB-D5,A-Untreated,E-Azoxystrobin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3bB-,H3bB-E5,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-F5,A-Untreated,Control,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-A6,A-Untreated,B-Thiacloprid,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB-,H3bB-B6,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3bB-,H3bB-C6,A-Untreated,D-Glyphosate,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB-,H3bB-D6,A-Untreated,E-Azoxystrobin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB-,H3bB-E6,A-Untreated,A-Acetone ,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+third,H3bB-,H3bB-F6,A-Untreated,Control,1,1,1,1,1,1,1,1,1,1,0,0,0,6,0,12,0
+third,H3bB-,H3bB-A7,A-Untreated,B-Thiacloprid,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3bB-,H3bB-B7,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3bB-,H3bB-C7,A-Untreated,D-Glyphosate,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,12,0
+third,H3bB-,H3bB-D7,A-Untreated,E-Azoxystrobin,1,1,1,1,1,0,0,0,0,0,0,0,0,5,1,12,0
+third,H3bB-,H3bB-E7,A-Untreated,A-Acetone ,1,1,1,1,1,1,1,1,0,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-F7,A-Untreated,Control,1,1,1,1,1,1,1,1,1,0,0,0,0,6,0,9,1
+third,H3bB-,H3bB-A8,A-Untreated,B-Thiacloprid,1,1,1,1,1,1,1,0,0,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-B8,A-Untreated,C-Lamda-cyhalothrin,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-C8,A-Untreated,D-Glyphosate,1,1,1,1,1,1,0,0,0,0,0,0,0,6,0,12,0
+third,H3bB-,H3bB-D8,A-Untreated,E-Azoxystrobin,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3bB-,H3bB-E8,A-Untreated,A-Acetone ,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
+third,H3bB-,H3bB-F8,A-Untreated,Control,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,12,0
